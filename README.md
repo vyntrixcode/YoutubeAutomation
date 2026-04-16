@@ -50,8 +50,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/vyntrix-automation.git
-cd vyntrix-automation
+git clone https://github.com/vyntrixcode/YoutubeAutomatio.git
+cd Youtube-automation
 
 # Install dependencies
 pip install -r requirements.txt
